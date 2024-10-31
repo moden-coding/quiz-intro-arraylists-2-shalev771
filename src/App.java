@@ -21,13 +21,13 @@ public class App {
 
         
         
-        int number = i;
-        for(int i = 0; i < list.size(); i++){
-            int number = numbers.get(i);
+         {
+        for(int i = 0; i < numbers.size(); i++){
+            System.out.println(numbers.get(i));
             
 
           
-            System.out.println("number is" + number);
+            
 
 
 
