@@ -9,5 +9,30 @@ public class App {
     //   ArrayList and this should still work.
     public static void main(String[] args) throws Exception {
         
-    }
+    } ArrayList<Integer> numbers = new ArrayList<>();
+    while (true) int input = Integer.valueOf(scanner.nextLine());
+
+        {
+        numbers.add(6);
+        numbers.add(3);
+        numbers.add(1);
+        numbers.add(2); }
+        
+
+        
+        
+        int number = i;
+        for(int i = 0; i < list.size(); i++){
+            int number = numbers.get(i);
+            
+
+          
+            System.out.println("number is" + number);
+
+
+
+
+    } 
+
 }
+
